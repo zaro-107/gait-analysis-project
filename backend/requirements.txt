@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+torch
+pyarrow
+tqdm
+matplotlib
+seaborn
